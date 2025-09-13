@@ -1,0 +1,19 @@
+
+Current date:  2025-09-06
+Width = 185.0
+Aspect ratio of the tire is = 50.0
+Diameter of the wheel is = 14.0
+Volume of the tire is = 24.09
+------------------------------
+Current date:  2025-09-06
+Width = 180.0
+Aspect ratio of the tire is = 20.0
+Diameter of the wheel is = 8.0
+Volume of the tire is = 4.87
+------------------------------
+Current date:  2025-09-08
+Width = 500.0
+Aspect ratio of the tire is = 10.0
+Diameter of the wheel is = 10.0
+Volume of the tire is = 23.88
+------------------------------
