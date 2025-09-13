@@ -1,4 +1,4 @@
-""" Marcos Chinga | Programming with functions CSE 111 | Tire Volume Calculator """
+#Marcos Chinga | Programming with functions CSE 111 | Tire Volume Calculator
 
 """
 The size of a car tire in the United States is represented with three numbers like this: 205/60R15. 

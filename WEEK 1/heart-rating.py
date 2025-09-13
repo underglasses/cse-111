@@ -1,6 +1,6 @@
-"""
-MARCOS CHINGA CSE 111| PROGRAMMING WITH FUNCTIONS | HEART RATING
-"""
+
+#MARCOS CHINGA CSE 111| PROGRAMMING WITH FUNCTIONS | HEART RATING
+
 
 """
 When you physically exercise to strengthen your heart, you
