@@ -74,9 +74,8 @@ def finish():
     print("================================================")
 
 def load_animation():
-    print("\n")
-    #animation = ["[■□□□□□□□□□]", "[■■□□□□□□□□]", "[■■■□□□□□□□]", "[■■■■□□□□□□]", "[■■■■■□□□□□]", "[■■■■■■□□□□]", "[■■■■■■■□□□]", "[■■■■■■■■□□]", "[■■■■■■■■■□]", "[■■■■■■■■■■]"]
-    animation = ["Calculating.","Calculating..","Calculating..."]
+    print("\nCalculating\n")
+    animation = ["■□□□□ 20%", "■■□□□ 40%", "■■■□□ 60%", "■■■■□ 80%", "■■■■■ 100%"]
     for i in range(len(animation)):
         time.sleep(0.5)
         print("\r" + animation[i % len(animation)], end="")
